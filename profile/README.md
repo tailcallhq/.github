@@ -1,6 +1,7 @@
-# Welcome to Tailcall Inc 👋
 
-[![Tailcall](https://raw.githubusercontent.com/tailcallhq/tailcall/main/assets/logo_main.png)](https://tailcall.run)
+
+[![Tailcall](https://raw.githubusercontent.com/tailcallhq/tailcall/main/assets/logo_main.svg)](https://tailcall.run)
+# Welcome to Tailcall Inc 👋
 
 We are Tailcall Inc, an open-source edge and service proxy designer committed to building [high-performance] GraphQL applications. We thrive on driving transformative solutions through distributed systems, performance engineering, and functional programming. Explore our [organization's repositories](https://github.com/tailcallhq) for our projects and collaborations with the community.
 
