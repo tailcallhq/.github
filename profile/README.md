@@ -42,7 +42,7 @@ We're always open for a chat!
 
 ## 🏆 Bounty Leaderboard
 
-<a href="https://console.algora.io/org/tailcallhq/leaderboard">
+<a href="https://github.com/tailcallhq/tailcall/issues?q=is%3Aissue+is%3Aopen+label%3A%22%F0%9F%92%8E+Bounty%22">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://console.algora.io/api/og/tailcallhq/leaderboard.png?p=0&theme=dark">
     <img alt="Leaderboard of tailcallhq" src="https://console.algora.io/api/og/tailcallhq/leaderboard.png?p=0&theme=light">
