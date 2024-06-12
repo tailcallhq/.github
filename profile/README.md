@@ -21,7 +21,7 @@ Check out some of our noteworthy projects:
 
 Passionate about what we do? We welcome contributions! Fork any of our projects, or reach out for more collaboration opportunities.
 
-- [Contribution Guidelines](https://tailcall.run/developers/)
+- [Contribution Guidelines](https://tailcall.run/docs/contribution-guidelines)
 
 ## 📞 Get in Touch
 
