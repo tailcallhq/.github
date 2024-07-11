@@ -14,7 +14,7 @@ We are Tailcall Inc, an open-source edge and service proxy designer committed to
 
 Check out some of our noteworthy projects:
 
-- [Tailcall Proxy](https://github.com/tailcallhq/tailcall)
+- [GraphQL Runtime](https://github.com/tailcallhq/tailcall)
 - [GraphQL Benchmarks](https://github.com/tailcallhq/graphql-benchmarks)
 
 ## 🤝 Contributing
