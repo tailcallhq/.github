@@ -30,7 +30,7 @@ We're always open for a chat!
 - 🌐 [Web](https://tailcall.run/)
 - 🐦 [Twitter](https://twitter.com/tailcallhq)
 - 💼 [LinkedIn](https://www.linkedin.com/company/tailcall)
-- 🎮 [Discord](https://discord.gg/7fseDEXUNU)
+- 🎮 [Discord](https://discord.gg/kRZBPpkgwq)
 
 ## 📈 Project Badges
 
