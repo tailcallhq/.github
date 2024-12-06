@@ -8,7 +8,8 @@ We are Tailcall Inc, an open-source edge and service proxy designer committed to
 [![Twitter Follow](https://img.shields.io/twitter/follow/tailcallhq?style=for-the-badge)](https://twitter.com/tailcallhq)
 [![GitHub followers](https://img.shields.io/github/followers/tailcallhq?label=Follow%20%40tailcallhq&style=for-the-badge)](https://github.com/tailcallhq)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/tailcall)](https://www.linkedin.com/company/tailcall)
-[![Discord](https://img.shields.io/discord/1044859667798568962?style=for-the-badge&cacheSeconds=60)](https://discord.gg/7fseDEXUNU)
+[![Discord](https://img.shields.io/discord/1044859667798568962?style=for-the-badge&cacheSeconds=60)](https://discord.gg/kRZBPpkgwq)
+
 
 ## 🔧 Projects
 
